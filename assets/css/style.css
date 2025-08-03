@@ -1,0 +1,33 @@
+
+body {
+  font-family: system-ui, sans-serif;
+  line-height: 1.6;
+  margin: 0;
+  padding: 0;
+  background: #f4f4f4;
+  color: #222;
+}
+header {
+  background: #0d1117;
+  color: #fff;
+  padding: 1rem;
+}
+header a {
+  color: #58a6ff;
+  text-decoration: none;
+  font-weight: bold;
+}
+nav a {
+  margin: 0 0.5rem;
+}
+main {
+  padding: 2rem;
+  background: #fff;
+}
+footer {
+  background: #0d1117;
+  color: #bbb;
+  text-align: center;
+  padding: 1rem;
+  margin-top: 2rem;
+}
