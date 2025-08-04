@@ -1,24 +1,21 @@
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>{{ page.title }}</title>
+  <title>{{ page.title }} | {{ site.title }}</title>
   <link rel="stylesheet" href="/assets/css/style.css">
 </head>
 <body>
-  <header>
-    <h1><a href="/">Jama about Tech</a></h1>
-    <nav>
-      <a href="/">Home</a> |
-      <a href="/about.html">About</a> |
-      <a href="/contact.html">Contact</a>
-    </nav>
-  </header>
+  <nav>
+    <a href="/">Home</a>
+    <a href="/about/">About</a>
+    <a href="/certifications/">Certifications</a>
+    <a href="/videos/">Videos</a>
+    <a href="/contact/">Contact</a>
+  </nav>
   <main>
     {{ content }}
   </main>
-  <footer>
-    <p>© 2025 Jama about Tech</p>
-  </footer>
 </body>
 </html>

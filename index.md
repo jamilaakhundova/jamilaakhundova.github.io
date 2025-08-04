@@ -1,23 +1,10 @@
 ---
-layout: default
-title: Jama about Tech
+layout: home
+title: Home
 ---
 
-# Welcome to Jama about Tech 🚀
-
-Helping people pass tech certifications and understand IT 🔐💻
-
-## 🎥 Latest Videos
-<div id="youtube-embed">[Latest videos will be embedded here]</div>
-
-## 📜 Certifications
-
-- 🧠 [AWS Certified Solutions Architect - Associate](#)
-- 🐧 [CompTIA Linux+](#)
-- ☁️ [AWS Certified Cloud Practitioner](#)
-- 🔐 [CompTIA Security+](#)
-- 🌐 [CompTIA Network+](#)
-- 💻 [CompTIA A+](#)
-- 📈 [Certified Associate in Project Management (CAPM)](#)
-
-[See more](about.html)
+<div class="hero">
+  <h1>Jama about Tech</h1>
+  <p>Tech certifications, YouTube tutorials, and whiteboard sessions.</p>
+  <a href="/videos" class="btn">Watch Latest Videos</a>
+</div>

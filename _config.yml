@@ -1,0 +1,10 @@
+title: Jama about Tech
+email: your@email.com
+description: >- 
+  Personal tech site for certifications, YouTube videos, and blog posts.
+baseurl: ""
+url: "https://jamastechtalks.com"
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag

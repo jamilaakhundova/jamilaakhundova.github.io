@@ -1,12 +1,11 @@
 ---
-layout: default
+layout: page
 title: Contact
+permalink: /contact/
 ---
 
-# Contact / Work With Me
+You can reach out to me via:
 
-If you'd like to get in touch for collaborations, sponsorships, or just to say hi, you can reach out via:
-
-- 📩 [LinkedIn](https://www.linkedin.com)
-- ☕ [Buy Me a Coffee](https://www.buymeacoffee.com)
-- 📬 [Email](mailto:your@email.com)
+- 📧 Email: your@email.com
+- 📺 [YouTube](https://www.youtube.com/@jamastechtalks)
+- 🧑‍💻 GitHub: [jamilaakhundova](https://github.com/jamilaakhundova)

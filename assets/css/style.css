@@ -1,33 +1,33 @@
 
 body {
-  font-family: system-ui, sans-serif;
-  line-height: 1.6;
+  font-family: sans-serif;
   margin: 0;
   padding: 0;
-  background: #f4f4f4;
-  color: #222;
+  line-height: 1.6;
 }
-header {
-  background: #0d1117;
-  color: #fff;
-  padding: 1rem;
-}
-header a {
-  color: #58a6ff;
-  text-decoration: none;
-  font-weight: bold;
+nav {
+  background: #222;
+  padding: 1em;
+  text-align: center;
 }
 nav a {
-  margin: 0 0.5rem;
+  color: #fff;
+  margin: 0 1em;
+  text-decoration: none;
+}
+.hero {
+  text-align: center;
+  padding: 4em 2em;
+  background: #f4f4f4;
+}
+.btn {
+  background: #000;
+  color: #fff;
+  padding: 0.5em 1.2em;
+  display: inline-block;
+  text-decoration: none;
+  margin-top: 1em;
 }
 main {
-  padding: 2rem;
-  background: #fff;
-}
-footer {
-  background: #0d1117;
-  color: #bbb;
-  text-align: center;
-  padding: 1rem;
-  margin-top: 2rem;
+  padding: 2em;
 }
